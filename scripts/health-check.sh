@@ -19,6 +19,7 @@ if [ -n "$CONFIG_FILE" ]; then
         exit 2
     fi
 
+    # shellcheck disable=SC1090
     source "$CONFIG_FILE"
 fi
 
