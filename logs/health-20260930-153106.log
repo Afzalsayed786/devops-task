@@ -1,0 +1,29 @@
+===== SERVER HEALTH =====
+Hostname:
+LAPTOP-OJS55GFO
+Uptime:
+up 1 hour, 43 minutes
+Load Average:
+ 0.55, 0.65, 0.76
+CPU:
+User: 6.5% System: 4.8% Idle: 85.5%
+Memory:
+Total: 3.7Gi Used: 1.2Gi Available: 2.4Gi
+Disk:
+Filesystem: /dev/sdd Used: 22G Available: 935G Usage: 3%
+Top CPU Process:
+kube-apiserver (PID: 2664, CPU: 9.6%)
+Top Memory Process:
+kube-apiserver (PID: 2664, Memory: 7.2%)
+Listening Ports:
+LISTEN 0      4096        127.0.0.1:36441      0.0.0.0:*          
+LISTEN 0      4096    127.0.0.53%lo:53         0.0.0.0:*          
+LISTEN 0      128           0.0.0.0:22         0.0.0.0:*          
+LISTEN 0      511           0.0.0.0:80         0.0.0.0:*          
+LISTEN 0      1000   10.255.255.254:53         0.0.0.0:*          
+LISTEN 0      4096        127.0.0.1:39127      0.0.0.0:*          
+LISTEN 0      4096        127.0.0.1:39243      0.0.0.0:*          
+LISTEN 0      128              [::]:22            [::]:*          
+LISTEN 0      511              [::]:80            [::]:*          
+Failed Services:
+=========================
